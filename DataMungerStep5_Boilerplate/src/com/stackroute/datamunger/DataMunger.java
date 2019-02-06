@@ -2,6 +2,7 @@ package com.stackroute.datamunger;
 
 import java.util.Scanner;
 
+
 import com.stackroute.datamunger.query.Query;
 import com.stackroute.datamunger.writer.JsonWriter;
 
